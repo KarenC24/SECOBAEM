@@ -1,0 +1,2 @@
+# SECOBAEM
+Proyecto sistema escolar
